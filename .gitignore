@@ -26,3 +26,16 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+
+# Temporary lock files (created when a file is open)
+~$*
+~*
+
+# Altium temporary and backup files
+*.~*
+*.Bck
+
+# Standalone preview files
+*.SchDocPreview
+*.PcbDocPreview
+*.OutJobPreview
